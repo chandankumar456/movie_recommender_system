@@ -40,3 +40,7 @@ Generate top-5 recommendations for each movie.
 ## Project Screenshots
 
 ![image alt](https://github.com/chandankumar456/movie_recommender_system/blob/2e7385b6510914eb4ee6d591f04a81f5bc7fdfcd/Screenshot%202025-04-04%20182706.png)
+
+![image alt](https://github.com/chandankumar456/movie_recommender_system/blob/af542ebbac9b4fbb905078facf4b2f7aba6c5081/Screenshot%202025-04-04%20182741.png)
+
+![image alt](https://github.com/chandankumar456/movie_recommender_system/blob/af542ebbac9b4fbb905078facf4b2f7aba6c5081/Screenshot%202025-04-04%20182841.png)
