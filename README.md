@@ -36,3 +36,7 @@ Build a user-item interaction matrix
 Train the model using selected filtering technique
 
 Generate top-5 recommendations for each movie.
+
+## Project Screenshots
+
+![image alt](https://github.com/chandankumar456/movie_recommender_system/blob/2e7385b6510914eb4ee6d591f04a81f5bc7fdfcd/Screenshot%202025-04-04%20182706.png)
